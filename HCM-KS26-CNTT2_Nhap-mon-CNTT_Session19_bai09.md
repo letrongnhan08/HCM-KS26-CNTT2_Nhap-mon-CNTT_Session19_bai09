@@ -36,6 +36,8 @@ Nhat-tien#04-van-hog@jOy
 | chữ thường                | từ a-z               | Tăng độ bảo mật                                                                  |
 | chữ số                    | từ 0-9               | Tăng độ bảo mật,đưa số vào ký tự                                                 |
 | Ký tự đặc biệt            | !@#$%^\\\&\\\*       | tăng độ bảo mật, phức tạp làm các cuộc  tấn công của Hacker không thể thành công |
+
+
 **Giải thích tính năng Tự động Điền (Auto-fill) của Bitwarden hiệu quả hơn con người**
 Auto-fill sẽ chặn không cho vào các tên miền lạ như githúb.com hay eplc.xyz bắt buộc khớp tên miền chính xác (Domain Matching) 100%.
 Do con người se dễ bị lừa trước các trang web giả mạo quá giống web chính thống như logo,giao diện,tên miền (ví dụ chữ là github.com nhưng khác định dạng phông chữ) thì dẫn đến bị lừa khác máy móc tính toán.
